@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="944"
+     inkscape:window-height="988"
+     inkscape:window-x="960"
+     inkscape:window-y="14"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1.14285719;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 176.59059,334.58358 c -3.88315,-5.54397 -4.44773,-24.685 -4.44773,-150.79282 0,-126.107849 0.56458,-145.24887 4.44773,-150.79285 l 4.44772,-6.35001 186.40942,0 c 141.17559,0 187.24139,0.83197 189.83799,3.42857 2.57977,2.57976 3.42857,40.634921 3.42857,153.71429 0,113.07936 -0.8488,151.13451 -3.42857,153.71428 -2.5966,2.5966 -48.6624,3.42857 -189.83799,3.42857 l -186.40942,0 -4.44772,-6.35003 z"
+       id="path2987"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#483e37;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2989"
+       width="580"
+       height="394.28571"
+       x="91.428574"
+       y="394.07645"
+       ry="16.428598" />
+    <rect
+       style="fill:#483e37;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991"
+       width="391.42856"
+       height="68.571426"
+       x="100"
+       y="829.50507"
+       ry="16.428598" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="-668.57141"
+       y="-210.49495"
+       id="text2993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-668.57141"
+         y="-210.49495"
+         id="tspan2997">-----Addon-----</tspan><tspan
+         sodipodi:role="line"
+         x="-668.57141"
+         y="-160.49495"
+         id="tspan3003">When you press hold press the image</tspan><tspan
+         sodipodi:role="line"
+         x="-668.57141"
+         y="-110.49495"
+         id="tspan3007">a dialog should show up revealing </tspan><tspan
+         sodipodi:role="line"
+         x="-668.57141"
+         y="-60.494949"
+         id="tspan3009">the Description of the virtual avatar</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.50281054;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3011"
+       width="171.55536"
+       height="65.714287"
+       x="557.14288"
+       y="832.36218"
+       ry="16.428598" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.49464446;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3013"
+       width="157.28987"
+       height="60"
+       x="560.00006"
+       y="932.36218"
+       ry="16.428598" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="571.42859"
+       y="875.21936"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="571.42859"
+         y="875.21936">submit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="597.14288"
+       y="969.50507"
+       id="text3019"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3021"
+         x="597.14288"
+         y="969.50507">Done</tspan></text>
+  </g>
+</svg>

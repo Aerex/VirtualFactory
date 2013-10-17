@@ -1,0 +1,7 @@
+Design Color Scheme
+
+Image - Green
+Text Box - Gray
+Dropdown - Brown
+Text - Black
+Button - Blue

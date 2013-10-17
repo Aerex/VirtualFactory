@@ -1,0 +1,18 @@
+
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+        <ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:src="@drawable/icon" android:id="@+id/imageView1" android:layout_alignParentTop="true" android:layout_alignParentLeft="true"></ImageView>
+        <RelativeLayout android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/relativeLayout2" android:layout_below="@+id/imageView1" android:layout_marginTop="96dp" android:layout_toRightOf="@+id/imageView1">
+        </RelativeLayout>
+        <TextView android:id="@string/login_string" android:textSize="20sp" android:layout_height="wrap_content" android:gravity="center" android:text="@string/login_string" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_alignTop="@+id/relativeLayout2" android:layout_centerHorizontal="true"></TextView>
+        <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_below="@string/login_string" android:layout_toRightOf="@+id/relativeLayout2" android:layout_marginTop="28dp" android:paddingBottom="25px">
+            <TextView android:id="@+id/textView1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:text="@string/login_name_string" android:padding="15px"></TextView>
+            <EditText android:layout_height="45px" android:layout_width="135px" android:inputType="textPersonName" android:layout_marginLeft="30sp" android:id="@+id/username" android:textSize="8dip"></EditText>
+        </TableRow>
+        <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow2" android:layout_width="wrap_content" android:layout_centerVertical="true" android:layout_alignLeft="@+id/tableRow1" android:paddingTop="25px">
+            <TextView android:id="@+id/textView2" android:layout_height="wrap_content" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:text="@string/login_password_string" android:padding="15px"></TextView>
+            <EditText android:inputType="textPassword" android:layout_width="135px" android:layout_height="45px" android:id="@+id/password" android:textSize="8dip">
+                <requestFocus></requestFocus>
+            </EditText>
+        </TableRow>
+        <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_below="@+id/tableRow2" android:layout_centerHorizontal="true" android:layout_marginTop="41dp" android:text="Done" android:id="@+id/finish_login"></Button>
+    </RelativeLayout>

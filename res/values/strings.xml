@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, VirtualTestProjectActivity!</string>
+    <string name="app_name">VirtualTestProject</string>
+    <string name="login_string">Login</string>
+    <string name="login_name_string">Name:</string>
+    <string name="login_password_string">Password:</string>
+    <string name="select_script">Select Script</string>
+    <string name="select_script_narrative">Script Narrative:</string>
+    <string name="submit">Submit</string>
+    <string name="exit">Exit</string>
+    <color name="Black">#000</color>
+</resources>
